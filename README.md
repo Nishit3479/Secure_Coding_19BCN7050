@@ -1,2 +1,2 @@
 # Secure_Coding_19BCN7050
-Secure Coding Lab Assignments Win semester 2020-21
+Secure Coding Lab Assignments for the winter semester 2020-21
