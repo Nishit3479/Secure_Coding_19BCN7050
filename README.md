@@ -10,5 +10,6 @@
 5. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-5/CSE-2010_19BCN7050_Lab%20Assignment-5.pdf" target="_blank">Lab Assignment 5</a>
 6. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-6/CSE-2010_19BCN7050_Lab%20Assignment-6.pdf" target="_blank">Lab Assignment 6</a>
 7. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-7/CSE-2010_19BCN7050_Lab%20Assignment-7.pdf" target="_blank">Lab Assignment 7</a>
+8. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-8/CSE-2010_19BCN7050_Lab%20Assignment-8.pdf" target="_blank">Lab Assignment 7</a>
 10. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-10/CSE-2010_19BCN7050_Lab%20Assignment-10.pdf" target="_blank">Lab Assignment 10</a>
 11. <a href="https://github.com/Nishit3479/Secure_Coding_19BCN7050/blob/main/Secure_Coding_Lab-11/CSE-2010_19BCN7050_Lab%20Assignment-11.pdf" target="_blank">Lab Assignment 11</a>
